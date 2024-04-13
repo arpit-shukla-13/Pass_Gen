@@ -1,0 +1,13 @@
+.passgen-main{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba(54, 54, 54, 0.427);
+    width: 800px;
+    border-radius: 70px;
+}
+
+.passgen-input{
+    width: 300px;
+}
